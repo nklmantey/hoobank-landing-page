@@ -1,4 +1,4 @@
-# HooBank Landing Page in React in React
+# HooBank Landing Page in React
 
 ### [Design outsourced from this Figma file](https://www.figma.com/file/bUGIPys15E78w9bs1l4tgS/HooBank?node-id=310%3A485)
 
